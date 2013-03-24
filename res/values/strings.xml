@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Games</string>
+    <string name="choose_names">Choose Player Names</string>
+    <string name="player1_name">Player 1 name</string>
+    <string name="player2_name">Player 2 name</string>
+    <string name="play_button">Play!</string>
+    <string name="computer_play">Play against computer?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="roll">Roll!</string>
+</resources>
